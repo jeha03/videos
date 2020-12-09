@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "video"
+  "defaultProject": "video",
+  "cli": {
+    "analytics": false
+  }
 }
